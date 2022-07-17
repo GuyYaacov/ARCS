@@ -7,25 +7,13 @@ void SendData(unsigned int handle ,int fromwho,int type,int DataLength,char *dat
 int GetData(unsigned int handle,int fromwho,int *type,char *data);
 
 void Log(char* data){
-	//int len=strlen(data),len2;
 	double currDateTime;
-	//char finalSendData[35+len];
 	char dateTimeBuffer[50];
 	int len=strlen(data);
 	char finalSendData[50+len];
-	//static char *z = NULL; 
-	//static struct tm *tm; 
-	//static time_t tt;
-	//time (&tt);	tm = localtime (&tt);	
-	//z = asctime (tm);	
-	//len2=strlen(z);	
-	//z[len2-1]='\0';
 	GetCurrentDateTime (&currDateTime);//get time
 	FormatDateTimeString (currDateTime, "%d/%m/%y - %H:%M", dateTimeBuffer, 50);//set time to string
-	
-	//sprintf (finalSendData, "%s >>> %s\n",z,data);
 	sprintf (finalSendData, "%s:\t%s\n",dateTimeBuffer,data);
-	
 	char dirname[MAX_PATHNAME_LEN];
 	int v;
 	v=GetProjectDir (dirname);
@@ -138,61 +126,6 @@ int GetFile(unsigned int handle,int new_file_type_const)
 	/* Enable library error checking. */
 		
 }
-
-
-/*int OpenConnection (int vFromWho, char *vIp, unsigned int vPort, char *vUserName, char *vPassword)
-{
-	char sStr[50];
-	int iReturnCode;
-	unsigned int iHandle;
-	
-	if (vFromWho < 1) 
-	{ // Client connection
-		iReturnCode = ConnectToTCPServer (&iHandle, vPort, vIp, ClientFunction, 0, 0); 
-		if (iReturnCode == 0)
-		{
-			sprintf(sStr, "Client %s connected to server (ip = %s, port = %d)", vUserName, vIp, vPort);
-			Log (sStr);
-			sprintf (sStr, "%s,%s", vUserName, vPassword);
-			SendData (iHandle, vFromWho, LOG_IN, strlen(sStr), sStr);
-			sprintf(sStr, "Client %s sent login request to server)", vUserName);
-		}
-		else
-		{
-		   iHandle = iReturnCode * -1;
-			sprintf(sStr, "Client %s failed to connect to server (ip = %s, port = %d)", vUserName, vIp, vPort);
-		}
-	}
-	else
-	{ // Server connection   
-		iReturnCode = RegisterTCPServer(vPort, ServerFunction, 0);
-		if (iReturnCode == 0)
-			sprintf(sStr, "Server has been registered (port = %d)", vPort);
-		else
-			sprintf(sStr, "Server failed to register (port = %d)", vPort);
-	   iHandle = iReturnCode * -1;
-	}
-	Log (sStr);
-	return iHandle;
-}
-
-void CloseConnection (int vFromWho, int vHandleOrPort)
-{
-	char sStr[50];
-	
-	if (vFromWho < 1)
-	{ // Client close connection
-		DisconnectFromTCPServer (vHandleOrPort);  
-		sprintf(sStr, "Client disconnected (handle = %d)", vHandleOrPort);
-	}
-	else
-	{ // Server close connection
-		UnregisterTCPServer (vHandleOrPort);	 
-		sprintf(sStr, "Server unregistered (ip = %d)", vHandleOrPort);
-	}
-	Log (sStr);
-}*/
-
 
 void SendData(unsigned int handle ,int fromwho,int type,int DataLength,char *data){
 	char str[10000];
