@@ -40,7 +40,7 @@ Shahar Sadof - https://www.linkedin.com/in/shahar-sadof-a5877b148/ <br />
 Assaf Kudra <br />
 Tali Markozen - https://www.linkedin.com/in/tali-markozen/ <br />
 Neta Williger Vaknin - https://www.linkedin.com/in/neta-williger-vaknin-719935173/ <br />
-Hadas Dvir - https://www.linkedin.com/in/hadas-dvir-a17900193/
+Hadas Dvir - https://www.linkedin.com/in/hadas-dvir-a17900193/ <br />
 Adi Lev <br />
 Gal Dayan - https://www.linkedin.com/in/dayan-gal/ <br />
 Daniel Biton - https://www.linkedin.com/in/danielbitonn/ <br />
