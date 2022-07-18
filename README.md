@@ -19,8 +19,17 @@ into any code to simplify interfacing with Arduino.
 ## Author of the idea and lecturer of the course:
 Dr. Tal Alon - https://www.linkedin.com/in/alontal/
 
-### Code integration and lead developer:"
+## Code integration and lead developer:"
 Guy Yaacov (me) - https://www.linkedin.com/in/guy-yaacov-640647153/
 
-### Softwere architecture:
-Dudi Marom
+## Softwere architecture:
+Dudi (David) Marom
+
+## UI desiner:
+Alex Yaroshenko - https://www.linkedin.com/in/alex-yaroshenko-4012243/
+
+## Code reviewer and team leader:
+Ido Sapan - https://www.linkedin.com/in/idosapan/
+
+## Code developers (DLL methods):
+
