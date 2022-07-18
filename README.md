@@ -32,27 +32,27 @@ Alex Yaroshenko - https://www.linkedin.com/in/alex-yaroshenko-4012243/
 Ido Sapan - https://www.linkedin.com/in/idosapan/
 
 ## Code developers (DLL methods):
-Amir Luski - https://www.linkedin.com/in/amir-luski/
-Feliks Vaksman - https://www.linkedin.com/in/feliks-vaksman/
-Nizan Ben Ari
-Amit Mesika - https://www.linkedin.com/in/amit-mesika-88699918b/
-Shahar Sadof - https://www.linkedin.com/in/shahar-sadof-a5877b148/
-Assaf Kudra
-Tali Markozen - https://www.linkedin.com/in/tali-markozen/
-Neta Williger Vaknin - https://www.linkedin.com/in/neta-williger-vaknin-719935173/
+Amir Luski - https://www.linkedin.com/in/amir-luski/ <br />
+Feliks Vaksman - https://www.linkedin.com/in/feliks-vaksman/ <br />
+Nizan Ben Ari <br />
+Amit Mesika - https://www.linkedin.com/in/amit-mesika-88699918b/ <br />
+Shahar Sadof - https://www.linkedin.com/in/shahar-sadof-a5877b148/ <br />
+Assaf Kudra <br />
+Tali Markozen - https://www.linkedin.com/in/tali-markozen/ <br />
+Neta Williger Vaknin - https://www.linkedin.com/in/neta-williger-vaknin-719935173/ <br />
 Hadas Dvir - https://www.linkedin.com/in/hadas-dvir-a17900193/
-Adi Lev
-Gal Dayan - https://www.linkedin.com/in/dayan-gal/
-Daniel Biton - https://www.linkedin.com/in/danielbitonn/
-Yotam Milis - https://www.linkedin.com/in/yotam-milis-966b13171/
-Ariel Mordoch - https://www.linkedin.com/in/ariel-mordoch-0709a6100/
-Daniel Yochanna
-Dekel Azulay
-Gal Matza - https://www.linkedin.com/in/gal-matza-25618a185/
-Peleg Alon
-Tamir Israel - https://www.linkedin.com/in/tamir-israel-544903165/
-Yaron Sheratzky - https://www.linkedin.com/in/yaron-sheratzky/
-Or Goral - https://www.linkedin.com/in/or-goral/
-Dor Weinberger - https://www.linkedin.com/in/dor-weinberger/
-Noam Gold - https://www.linkedin.com/in/noam-gold/
-Roy Steiner - https://www.linkedin.com/in/roy-steiner-a385b1124/
+Adi Lev <br />
+Gal Dayan - https://www.linkedin.com/in/dayan-gal/ <br />
+Daniel Biton - https://www.linkedin.com/in/danielbitonn/ <br />
+Yotam Milis - https://www.linkedin.com/in/yotam-milis-966b13171/ <br />
+Ariel Mordoch - https://www.linkedin.com/in/ariel-mordoch-0709a6100/ <br />
+Daniel Yochanna <br />
+Dekel Azulay <br />
+Gal Matza - https://www.linkedin.com/in/gal-matza-25618a185/ <br />
+Peleg Alon <br />
+Tamir Israel - https://www.linkedin.com/in/tamir-israel-544903165/ <br />
+Yaron Sheratzky - https://www.linkedin.com/in/yaron-sheratzky/ <br />
+Or Goral - https://www.linkedin.com/in/or-goral/ <br />
+Dor Weinberger - https://www.linkedin.com/in/dor-weinberger/ <br />
+Noam Gold - https://www.linkedin.com/in/noam-gold/ <br />
+Roy Steiner - https://www.linkedin.com/in/roy-steiner-a385b1124/ <br />
