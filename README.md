@@ -15,7 +15,7 @@ which are burned into Arduino or simple commands.
 The program includes DLL with a set of functions that can be incorporated 
 into any code to simplify interfacing with Arduino.
 
-# Develpoment Crew
+# Development Crew
 ## Author of the idea and lecturer of the course:
 Dr. Tal Alon - https://www.linkedin.com/in/alontal/
 
